@@ -1,0 +1,1 @@
+.swap-enter-active,.swap-leave-active{transition:opacity .3s,transform .3s}.swap-enter-from{opacity:0;transform:translateY(16px)}.swap-leave-to{opacity:0;transform:translateY(-16px)}

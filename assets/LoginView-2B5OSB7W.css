@@ -1,0 +1,1 @@
+.tab-enter-active,.tab-leave-active{transition:opacity .22s,transform .22s}.tab-enter-from{opacity:0;transform:translateY(10px)}.tab-leave-to{opacity:0;transform:translateY(-10px)}.modal-enter-active,.modal-leave-active{transition:opacity .25s}.modal-enter-from,.modal-leave-to{opacity:0}
